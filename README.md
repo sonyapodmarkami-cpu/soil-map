@@ -8,7 +8,7 @@ The project includes a soil map with thematic classification and a legend descri
 
 ## Result
 
-![Soil map](/почвенная_карта)
+![Soil map](почвенная_карта.jpg)
 
 ## Software
 
