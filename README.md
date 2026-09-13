@@ -8,7 +8,7 @@ The project includes a soil map with thematic classification and a legend descri
 
 ## Result
 
-![Soil map](images/soil_map.png)
+![Soil map](карта псковской области.pdf)
 
 ## Software
 
